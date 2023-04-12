@@ -1,6 +1,8 @@
 # govg-cms-vue
 
-This template should help get you started developing with Vue 3 in Vite.
+这个模板应该有助于您开始在Vite中使用Vue 3进行开发。
+基于Vue3 + Vite开发的CMS内容管理系统。
+node版本：18.15.0
 
 ## Recommended IDE Setup
 
